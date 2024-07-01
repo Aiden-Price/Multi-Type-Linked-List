@@ -1,0 +1,4 @@
+List 0: newNode
+List 1: {List 0}
+List 2: {List 1}
+Nested 0: {List 1} -> newNode

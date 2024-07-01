@@ -1,0 +1,11 @@
+List 0: this -> is -> simple
+Nested 1: this -> is-nested -> {List 0} -> 4.0 h
+this -> is-nested -> {this -> is -> simple} -> 4.0 h
+List 2: other
+INVALID COMMAND: INSERT
+INVALID COMMAND: REMOVE
+List 1: this -> is-nested -> 4.0 h
+Nested 0: this -> is -> {List 1} -> simple
+Nested 0: {List 1} -> this -> is -> {List 1} -> simple
+Nested 0: this -> is -> {List 1} -> simple
+this -> is -> {this -> is-nested -> 4.0 h} -> simple

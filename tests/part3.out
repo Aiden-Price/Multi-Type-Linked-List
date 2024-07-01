@@ -1,0 +1,14 @@
+List 0: this -> is -> simple
+List 1: this -> is-nested -> {0} -> 4.0 h
+this -> is-nested -> {0} -> 4.0 h
+List 2: other
+List 0: this -> is -> {2} -> simple
+List 0 has been removed.
+
+Number of lists: 2
+List 1
+List 2
+List 1: this -> is-nested -> 4.0 h
+INVALID COMMAND: INSERT
+List 0: {1}
+List 0: INVALID COMMAND: VIEW-NESTED

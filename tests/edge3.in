@@ -1,0 +1,8 @@
+NEW 3
+start
+middle
+end
+INSERT 0 100 first
+DELETE 0 100
+INSERT 100 0 outOfBounds
+DELETE 100 0 outOfBounds

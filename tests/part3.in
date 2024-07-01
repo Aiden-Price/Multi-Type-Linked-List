@@ -1,0 +1,19 @@
+NEW 3
+this
+is
+simple
+NEW 4
+this
+is-nested
+{0}
+4.0 h
+VIEW-NESTED 1
+NEW 1
+other
+INSERT 0 2 {2}
+REMOVE 0
+DELETE 1 2
+INSERT 0 2 {1}
+INSERT 0 0 {1}
+DELETE 0 0
+VIEW-NESTED 0

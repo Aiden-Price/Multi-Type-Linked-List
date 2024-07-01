@@ -1,0 +1,29 @@
+List 0: a -> 12 -> 0.02
+List 1: 100 -> hello -> need
+List 0: a -> 2 -> 12 -> 0.02
+List 2: middle -> end
+List 0: a -> start -> 2 -> 12 -> 0.02
+List 0: a -> start -> 2 -> finish -> 12 -> 0.02
+INVALID COMMAND: INSERT
+INVALID COMMAND: INSERT
+INVALID COMMAND: INSERT
+INVALID COMMAND: INPUT
+INVALID COMMAND: INSERT
+List 0: start -> 2 -> finish -> 12 -> 0.02
+List 1: 100 -> need
+INVALID COMMAND: DELETE
+INVALID COMMAND: DELETE
+INVALID COMMAND: DELETE
+Number of lists: 3
+List 0
+List 1
+List 2
+INVALID COMMAND: REMOVE
+List 0 has been removed.
+
+Number of lists: 2
+List 1
+List 2
+INVALID COMMAND: INSERT
+INVALID COMMAND: DELETE
+INVALID COMMAND: INSERT

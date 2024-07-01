@@ -1,0 +1,7 @@
+NEW 1
+newNode
+NEW 1
+{List 0}
+NEW 1
+{List 1}
+INSERT 0 0 {List 2}
